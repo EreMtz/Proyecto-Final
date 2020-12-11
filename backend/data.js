@@ -21,9 +21,9 @@ const data = {
   products: [
     {
       name: 'Cama perro',
-      category: 'Shirts',
+      category: 'Mascotas',
       image: '/images/p1.jpg',
-      price: 120,
+      price: 500,
       countInStock: 10,
       brand: 'Trueq',
       rating: 4.5,
@@ -32,14 +32,14 @@ const data = {
     },
     {
       name: 'Cama',
-      category: 'Shirts',
+      category: 'Mobiliario',
       image: '/images/p2.jpg',
       price: 100,
       countInStock: 20,
       brand: 'Trueq',
       rating: 4.0,
       numReviews: 10,
-      description: 'high quality product',
+      description: 'Minimalista',
     },
     {
       name: 'producto',
@@ -53,8 +53,8 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Myuebe',
-      category: 'Pants',
+      name: 'Mueble',
+      category: 'Mobiliario',
       image: '/images/p4.jpg',
       price: 78,
       countInStock: 15,
@@ -65,7 +65,7 @@ const data = {
     },
     {
       name: 'Mueble',
-      category: 'Pants',
+      category: 'Mobiliario',
       image: '/images/p5.jpg',
       price: 65,
       countInStock: 5,
@@ -76,7 +76,7 @@ const data = {
     },
     {
       name: 'HM',
-      category: 'Pants',
+      category: 'Mobiliario',
       image: '/images/p6.jpg',
       price: 139,
       countInStock: 12,
